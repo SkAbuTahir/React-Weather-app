@@ -16,14 +16,9 @@ It shows the current weather of any city using the **OpenWeatherMap API**.
 
 
 
----
 
-## 🚀 Live Demo
 
-[👉 Click to View Live](https://skabutahir.github.io/React-Weather-app/)  
-*(Add this after deploying using GitHub Pages or Vercel – I’ll help you if you want)*
 
----
 
 ## 🛠️ Tech Stack
 
