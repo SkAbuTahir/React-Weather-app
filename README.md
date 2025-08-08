@@ -14,11 +14,7 @@ It shows the current weather of any city using the **OpenWeatherMap API**.
 
 ---
 
-## 📸 Screenshots
 
-| Light Mode | Dark Mode (if applicable) |
-|------------|---------------------------|
-| *You can add screenshots here* |
 
 ---
 
